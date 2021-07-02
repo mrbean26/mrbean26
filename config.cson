@@ -1,0 +1,40 @@
+"*":
+  "accents-ui":
+    accentColor: "#2bc8d4"
+    hexColor: "#2bc8d4"
+  "atom-include-path": {}
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ef5350"
+      accentColor: "#59fcff"
+      genAccent: true
+      paintCursor: true
+      predefinedColor: "Red"
+    fonts: {}
+    ui: {}
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      ".meta"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+    uriHandlerRegistration: "always"
+  editor:
+    fontSize: 13
+    tabLength: 4
+  "exception-reporting":
+    userId: "b8276acb-9fa2-4535-bcb7-a9de8e397621"
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
